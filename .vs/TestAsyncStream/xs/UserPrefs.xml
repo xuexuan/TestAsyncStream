@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1DCD5B3B-9A9D-4F76-98E9-E26956D6DC96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAsyncStream/Program.cs">
+    <Files>
+      <File FileName="TestAsyncStream/Program.cs" Line="129" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestAsyncStream PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

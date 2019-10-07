@@ -1,0 +1,11 @@
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/obj/x86/Debug/TestAsyncStream.csprojAssemblyReference.cache
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/obj/x86/Debug/TestAsyncStream.csproj.CoreCompileInputs.cache
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/bin/Debug/TestAsyncStream.exe
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/bin/Debug/TestAsyncStream.pdb
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/bin/Debug/Newtonsoft.Json.dll
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/bin/Debug/Octokit.dll
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/bin/Debug/Newtonsoft.Json.xml
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/bin/Debug/Octokit.xml
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/obj/x86/Debug/TestAsyncStream.csproj.CopyComplete
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/obj/x86/Debug/TestAsyncStream.exe
+/Users/xuexuankr/Projects/Net/TestAsyncStream/TestAsyncStream/obj/x86/Debug/TestAsyncStream.pdb
